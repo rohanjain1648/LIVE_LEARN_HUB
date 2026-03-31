@@ -1,0 +1,31 @@
+project_id = "zsnqrcxexdwvuhmchzqs"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.generate-quiz]
+verify_jwt = false
+
+[functions.generate-flashcards]
+verify_jwt = false
+
+[functions.analyze-screenshot]
+verify_jwt = false
+
+[functions.voice-study]
+verify_jwt = false
+
+[functions.code-review]
+verify_jwt = false
+
+[functions.socratic-chat]
+verify_jwt = false
+
+[functions.misconception-radar]
+verify_jwt = false
+
+[functions.concept-map]
+verify_jwt = false
+
+[functions.voice-to-flashcards]
+verify_jwt = false
